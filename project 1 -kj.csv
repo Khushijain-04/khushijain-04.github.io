@@ -1,8 +1,0 @@
-Row Labels,Count of Churn,,Row Labels,Count of Churn,,Row Labels,Count of InternetService,,,Row Labels,Average of tenure,,Count of Churn,Column Labels,,,,,,,
-No,73.46%,,Month-to-month,3875,,Bank transfer (automatic),21.92%,,,No,37.56996521,,Row Labels,No,Yes,Grand Total,,Count of Churn,Column Labels,,
-Yes,26.54%,,One year,1473,,Credit card (automatic),21.61%,,,Yes,17.97913323,,Month-to-month,57.29%,42.71%,100.00%,,Row Labels,No,Yes,Grand Total
-Grand Total,100.00%,,Two year,1695,,Electronic check,33.58%,,,Grand Total,32.37114866,,One year,88.73%,11.27%,100.00%,,Bank transfer (automatic),83.29%,16.71%,100.00%
-,,,Grand Total,7043,,Mailed check,22.89%,,,,,,Two year,97.17%,2.83%,100.00%,,Credit card (automatic),84.76%,15.24%,100.00%
-,,,,,,Grand Total,100.00%,,,,,,Grand Total,73.46%,26.54%,100.00%,,Electronic check,54.71%,45.29%,100.00%
-,,,,,,,,,,,,,,,,,,Mailed check,80.89%,19.11%,100.00%
-,,,,,,,,,,,,,,,,,,Grand Total,73.46%,26.54%,100.00%
